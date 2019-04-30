@@ -1,2 +1,2 @@
-H1 Bamazon
+Bamazon
 =====

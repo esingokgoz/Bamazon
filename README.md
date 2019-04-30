@@ -20,9 +20,10 @@ $ npm install
 ## How it works in Terminal
 1) Customer View
 - Displays the list of products from the database
-
+![Displaying items] (https://github.com/esingokgoz/Bamazon/blob/master/images/ListingItems.png)
 
 - Prompts question for customer to pick a product to purchase and select quantity
+![Purchase item] (https://github.com/esingokgoz/Bamazon/blob/master/images/purchaseItem.png)
 
 
 
